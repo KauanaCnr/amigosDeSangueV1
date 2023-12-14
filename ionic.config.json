@@ -1,0 +1,7 @@
+{
+  "name": "amigosDeSangueV1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
